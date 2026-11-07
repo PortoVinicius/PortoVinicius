@@ -8,20 +8,20 @@
   </h1>
 
   <h3>
-    CREATIVE DEVELOPER &nbsp;|&nbsp; TECHNOLOGY ENTHUSIAST
+      ASPIRING SOFTWARE DEVELOPER
   </h3>
 
   <br>
 
   <p>
-    Building things for the web.<br>
-    Exploring ideas. Turning coffee into code.
+      Learning, building and exploring technology.<br>
+      Turning ideas into code, one project at a time.
   </p>
 
   <br>
 
   <p>
-    <a href="https://github.com/">
+    <a href="https://github.com/PortoVinicius">
       GITHUB
     </a>
     &nbsp;&nbsp;·&nbsp;&nbsp;
