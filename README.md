@@ -1,16 +1,43 @@
-## Hi there 👋
 
-<!--
-**PortoVinicius/PortoVinicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h1>
+    YOUR NAME<span>_</span>
+  </h1>
+
+  <h3>
+    CREATIVE DEVELOPER &nbsp;|&nbsp; TECHNOLOGY ENTHUSIAST
+  </h3>
+
+  <br>
+
+  <p>
+    Building things for the web.<br>
+    Exploring ideas. Turning coffee into code.
+  </p>
+
+  <br>
+
+  <p>
+    <a href="https://github.com/">
+      GITHUB
+    </a>
+    &nbsp;&nbsp;·&nbsp;&nbsp;
+    <a href="https://linkedin.com/">
+      LINKEDIN
+    </a>
+    &nbsp;&nbsp;·&nbsp;&nbsp;
+    <a href="mailto:hello@example.com">
+      CONTACT
+    </a>
+  </p>
+
+  <br><br>
+
+  <p>
+    <sub>© 2026 — DESIGNED & BUILT WITH CURIOSITY.</sub>
+  </p>
+
+</div>
